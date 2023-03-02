@@ -2,10 +2,7 @@
   <div class="home">
     <h1>Homepage</h1>
 
-
-    <PostList />  
-
-
+    <PostList :posts="posts"/>
   </div>
 </template>
 
