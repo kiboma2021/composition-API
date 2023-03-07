@@ -6,6 +6,7 @@
     </div>
 
     <button @click="showPosts = !showPosts">Show posts</button>
+    <button @click="posts.pop()">Delete Post</button>
   </div>
 </template>
 
