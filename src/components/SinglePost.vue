@@ -1,8 +1,11 @@
 <template>
     <div>
-            <h1>{{ post.title }} </h1>
         <hr>
+            <h1>{{ post.title }} </h1>
             <p>{{ snippet }}</p>
+            <span v-for="tag in post.tags" :key="tag">
+                #{{ tag }}
+            </span>
         <hr>
     </div>
   
