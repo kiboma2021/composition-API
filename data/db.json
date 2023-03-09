@@ -2,7 +2,7 @@
     "posts": [
         {
             "id": 1,
-            "title": "Welcome to my new blog",
+            "title": "Welcome to my new blog 1",
             "body": "Lorem ipsum dolor sit amet, consectet Lore Lorem ipsum dolor sit amet",
             "tags": ["wedev", "thomas", "coding", "News"]
         },
@@ -13,7 +13,7 @@
             "tags": ["wedev", "thomas", "coding", "News"]
         },
         {
-            "id": 1,
+            "id": 3,
             "title": "Welcome to my new blog 3",
             "body": "Lorem ipsum dolor sit amet, consectet Lore Lorem ipsum dolor sit amet 3",
             "tags": ["wedev", "thomas", "coding", "News"]
