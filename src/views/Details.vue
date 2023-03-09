@@ -4,6 +4,10 @@
 
 <script>
 export default {
+  props: ['id'],
+  setup(props) {
+    
+  }
 
 }
 </script>
